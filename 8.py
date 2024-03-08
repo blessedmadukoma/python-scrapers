@@ -1,4 +1,4 @@
-# This is a conceptual example; Pyppeteer needs an async environment to run.
+# Question: Find and list all severe JS errors
 
 import asyncio
 from pyppeteer import launch
